@@ -1,20 +1,41 @@
 🏦 Firm Bank Pasbook Analysis – Tableau Dynamic Dashboard
+
 📌 Project Overview
-This project focuses on analyzing bank transaction (passbook) data using Python (Pandas) and visualizing it through a dynamic Tableau dashboard. The goal is to help users track their income, expenses, and financial patterns in an interactive and insightful way.
+This project focuses on analyzing a firm's financial transaction data extracted from multiple CSV files using Python (Pandas). The goal was to automate the reporting process, visualize financial health, and assist in better budget planning.
+
+After performing data cleaning and transformation (ETL), including handling unstructured data and splitting rows, a dynamic Tableau dashboard was created. The dashboard uses lollipop charts, donut charts, bar graphs, and highlighted tables to deliver a clear and interactive financial overview.
 
 Dynamic Dashboard:- https://public.tableau.com/app/profile/chetanmalviya513/viz/BankPassbookAnalysis/Dashboard1
 
-
 🔧 Tools & Technologies
-Python (Pandas, NumPy) – for data cleaning and preprocessing
+Python (Pandas) – Data import, cleaning, and processing
 
-Tableau – for building interactive dashboards
+Tableau – Interactive data visualization and dashboard building
 
-Excel/CSV – as data source
+MS Excel / CSV – Data Source
+
+ETL Process – To structure and prepare raw data for analysis
 
 🎯 Key Features
-Automatic categorization of income and expenses
+Total cash inflow and outflow tracking
 
+Weekly, Monthly, Quarterly, and Yearly financial reports
+
+Automated budget planning and forecasting
+
+Visual match with accounting balance sheets
+
+Data-driven decisions leading to 25% cost savings
+
+Fully interactive Tableau dashboard with filters and visual KPIs
+
+💡 Use Case
+This project can be adapted by individuals or businesses looking to:
+✔️ Track their financial transactions
+✔️ Automate reporting
+✔️ Identify cost-saving opportunities
+✔️ Visualize trends over time
+✔️ Plan future budgets with clarity
 Monthly trend analysis of spending and savings
 
 Filterable dashboard by date, category, or amount
