@@ -22,3 +22,4 @@ Clear visual insights into financial health
 
 💡 Use Case
 Ideal for individuals or small businesses wanting to monitor and manage personal or professional finances with ease. Just upload your bank passbook data and get instant, actionable insights.
+Dynamic Dashboard:- https://public.tableau.com/app/profile/chetanmalviya513/viz/BankPassbookAnalysis/Dashboard1
