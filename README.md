@@ -2,6 +2,9 @@
 📌 Project Overview
 This project focuses on analyzing bank transaction (passbook) data using Python (Pandas) and visualizing it through a dynamic Tableau dashboard. The goal is to help users track their income, expenses, and financial patterns in an interactive and insightful way.
 
+Dynamic Dashboard:- https://public.tableau.com/app/profile/chetanmalviya513/viz/BankPassbookAnalysis/Dashboard1
+
+
 🔧 Tools & Technologies
 Python (Pandas, NumPy) – for data cleaning and preprocessing
 
@@ -22,4 +25,3 @@ Clear visual insights into financial health
 
 💡 Use Case
 Ideal for individuals or small businesses wanting to monitor and manage personal or professional finances with ease. Just upload your bank passbook data and get instant, actionable insights.
-Dynamic Dashboard:- https://public.tableau.com/app/profile/chetanmalviya513/viz/BankPassbookAnalysis/Dashboard1
