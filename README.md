@@ -7,8 +7,6 @@ After performing data cleaning and transformation (ETL), including handling unst
 
 Dynamic Dashboard:- https://public.tableau.com/app/profile/chetanmalviya513/viz/BankPassbookAnalysis/Dashboard1
 
-[https://github.com/chetanmalviya513/Financial-Analysis-Forecasting/blob/main/Firm%20Bank%20Transaction%20Analysis.png?raw=true](https://github.com/chetanmalviya513/Financial-Analysis-Forecasting/blob/859abd9d8a9ec08550584c4d06c1ed16920595f9/Firm%20Bank%20Transaction%20Analysis.png)
-
 🔧 Tools & Technologies
 Python (Pandas) – Data import, cleaning, and processing
 
