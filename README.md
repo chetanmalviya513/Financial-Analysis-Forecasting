@@ -31,11 +31,17 @@ Fully interactive Tableau dashboard with filters and visual KPIs
 
 💡 Use Case
 This project can be adapted by individuals or businesses looking to:
+
 ✔️ Track their financial transactions
+
 ✔️ Automate reporting
+
 ✔️ Identify cost-saving opportunities
+
 ✔️ Visualize trends over time
+
 ✔️ Plan future budgets with clarity
+
 Monthly trend analysis of spending and savings
 
 Filterable dashboard by date, category, or amount
