@@ -1,24 +1,26 @@
-🏦 Firm Bank Pasbook Analysis – Tableau Dynamic Dashboard
+# Firm Bank Pasbook Analysis – Tableau Dynamic Dashboard
 
-📌 Project Overview
+# Project Overview
 This project focuses on analyzing a firm's financial transaction data extracted from multiple CSV files using Python (Pandas). The goal was to automate the reporting process, visualize financial health, and assist in better budget planning.
 
 After performing data cleaning and transformation (ETL), including handling unstructured data and splitting rows, a dynamic Tableau dashboard was created. The dashboard uses lollipop charts, donut charts, bar graphs, and highlighted tables to deliver a clear and interactive financial overview.
 
-Dynamic Dashboard:- https://public.tableau.com/app/profile/chetanmalviya513/viz/BankPassbookAnalysis/Dashboard1
+# Dynamic Dashboard:- 
+https://public.tableau.com/app/profile/chetanmalviya513/viz/BankPassbookAnalysis/Dashboard1
 
-Youtube - https://www.youtube.com/watch?v=kLG9PX8raM0
+# Youtube:-
+https://www.youtube.com/watch?v=kLG9PX8raM0
 
-🔧 Tools & Technologies
+# Tools & Technologies
 Python (Pandas) – Data import, cleaning, and processing
 
-Tableau – Interactive data visualization and dashboard building
+# Tableau – Interactive data visualization and dashboard building
 
 MS Excel / CSV – Data Source
 
 ETL Process – To structure and prepare raw data for analysis
 
-🎯 Key Features
+# Key Features
 Total cash inflow and outflow tracking
 
 Weekly, Monthly, Quarterly, and Yearly financial reports
@@ -31,7 +33,7 @@ Data-driven decisions leading to 25% cost savings
 
 Fully interactive Tableau dashboard with filters and visual KPIs
 
-💡 Use Case
+# Use Case
 This project can be adapted by individuals or businesses looking to:
 
 ✔️ Track their financial transactions
@@ -52,5 +54,5 @@ Real-time updates with new data uploads
 
 Clear visual insights into financial health
 
-💡 Use Case
+# Use Case
 Ideal for individuals or small businesses wanting to monitor and manage personal or professional finances with ease. Just upload your bank passbook data and get instant, actionable insights.
